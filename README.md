@@ -17,3 +17,8 @@
 > 변수와 자료형
 >
 > [Variables and Data Types](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-06-java.md)
+
+2024.05.07
+> 상수와 리터럴, 연산자, 조건문과 반복문
+>
+> [Constants and Literals, Operators, Conditional and Iterative Statements](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-07-java.md)
