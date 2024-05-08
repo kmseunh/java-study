@@ -24,6 +24,6 @@
 > [Constants and Literal, Various Operators, Conditional and Loop](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-07-java.md)
 
 2024.05.08
-> 클래스, 메서드, 인스턴스
+> 클래스, 메서드, 인스턴스, 생성자, 정보 은닉
 >
-> [Class, Method, Instance](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-08-java.md)
+> [Class, Method, Instance, constructor, Information Hiding](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-08-java.md)
