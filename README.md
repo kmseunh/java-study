@@ -19,11 +19,16 @@
 > [Variables and Data Types](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-06-java.md)
 
 2024.05.07
-> 상수와 리터럴, 연산자, 조건문과 반복문
+> 상수와 리터럴, 연산자, **조건문**과 **반복문**
 >
 > [Constants and Literal, Various Operators, Conditional and Loop](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-07-java.md)
 
 2024.05.08
-> 클래스, 메서드, 인스턴스, 생성자, 정보 은닉
+> 클래스, 메서드, **인스턴스**, **생성자**, 정보 은닉
 >
 > [Class, Method, Instance, constructor, Information Hiding](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-08-java.md)
+
+2024.05.09
+> **this** 예약어, **static** 변수, 변수 유효 범위, 싱글톤 패턴
+>
+> [this, Static Variable, Variable Valid Range, Singleton Pattern](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-09-java.md)
