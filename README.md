@@ -32,3 +32,8 @@
 > **this** 예약어, **static** 변수, 변수 유효 범위, 싱글톤 패턴
 >
 > [this, Static Variable, Variable Valid Range, Singleton Pattern](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-09-java.md)
+
+2024.05.10
+> **배열**, 다차원 배열, **ArrayList**
+>
+> [Array, Multidimensional Array, ArrayList](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-10-java.md)
