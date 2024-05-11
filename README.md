@@ -38,7 +38,7 @@
 >
 > [Array, Multidimensional Array, ArrayList](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-10-java.md)
 
-2024.05.10
+2024.05.11
 > **상속**, 메서드 오버라이딩, **다형성**, 다운 캐스팅
 > 
 > [Inheritance, Method Overriding, Polymorphism, Downcasting](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-11-java.md)
