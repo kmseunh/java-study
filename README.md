@@ -40,10 +40,15 @@
 
 2024.05.11
 > **상속**, 메서드 오버라이딩, **다형성**, 다운 캐스팅
-> 
+>
 > [Inheritance, Method Overriding, Polymorphism, Downcasting](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-11-java.md)
 
 2024.05.12
 > 추상 클래스, 템플릿 메서드, final 예약어
 >
 > [Abstract Classes, Template Methods, Final](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-12-java.md)
+
+2024.05.12
+> 인터페이스와 다형성
+>
+> [Interface and Polymorphism](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-13-java.md)
