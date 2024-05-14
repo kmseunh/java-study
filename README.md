@@ -48,7 +48,12 @@
 >
 > [Abstract Classes, Template Methods, Final](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-12-java.md)
 
-2024.05.12
+2024.05.13
 > 인터페이스와 다형성
 >
 > [Interface and Polymorphism](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-13-java.md)
+
+2024.05.14
+> Object 클래스, String 클래스, Wrapper 클래스
+>
+> [Object Class, String Class, Wrapper Class](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-14-java.md)
