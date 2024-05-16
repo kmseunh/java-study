@@ -49,7 +49,7 @@
 > [Abstract Classes, Template Methods, Final](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-12-java.md)
 
 2024.05.13
-> 인터페이스와 다형성
+> **인터페이스**와 다형성
 >
 > [Interface and Polymorphism](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-13-java.md)
 
@@ -57,3 +57,8 @@
 > Object 클래스, String 클래스, Wrapper 클래스 Class 클래스
 >
 > [Object Class, String Class, Wrapper Class, Class Class](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-14-java.md)
+
+2024.05.16
+> **제네릭**, 컬렉션 프레임워크, List 인터페이스
+> 
+> [Generic, Collection Framework, List Interface](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-16-java.md)
