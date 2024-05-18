@@ -60,5 +60,10 @@
 
 2024.05.16
 > **제네릭**, 컬렉션 프레임워크
-> 
+>
 > [Generic, Collection Framework](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-16-java.md)
+
+2024.05.17
+> **List** 인터페이스, **Set** 인터페이스, **Map** 인터페이스
+>
+> [List Interface, Set Interface, Map Interface](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-16-java.md)
