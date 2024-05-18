@@ -66,4 +66,10 @@
 2024.05.17
 > **List** 인터페이스, **Set** 인터페이스, **Map** 인터페이스
 >
-> [List Interface, Set Interface, Map Interface](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-16-java.md)
+> [List Interface, Set Interface, Map Interface](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-17-java.md)
+
+
+2024.05.18
+> 내부 클래스, **람다식**, 스트림
+>
+> [Inner Class, Lamda Expression, Stream](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-18-java.md)
