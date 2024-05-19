@@ -73,3 +73,8 @@
 > 내부 클래스, **람다식**, 스트림
 >
 > [Inner Class, Lamda Expression, Stream](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-18-java.md)
+
+2024.05.19
+> 예외 처리
+> 
+> [Exception Handling](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-19-java.md)
