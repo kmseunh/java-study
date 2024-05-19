@@ -76,5 +76,10 @@
 
 2024.05.19
 > 예외 처리
-> 
+>
 > [Exception Handling](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-19-java.md)
+
+2024.05.20
+> 자바 입출력
+>
+> [Java I/O, Stream](https://github.com/kmseunh/java-study/blob/main/study-logs/2024-05-20-java.md)
